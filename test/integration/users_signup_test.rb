@@ -25,4 +25,3 @@ class UsersSignupTest < ActionDispatch::IntegrationTest
     assert_template 'users/show'
   end
 end
-end
